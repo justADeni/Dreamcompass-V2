@@ -1,0 +1,8 @@
+name: DreamcompassV2
+version: '${project.version}'
+main: justadeni.goodcraft.dreamcompass2.Dreamcompass2
+api-version: 1.16
+load: STARTUP
+commands:
+  compass:
+    description: gives you a tracking compass
