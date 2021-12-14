@@ -1,6 +1,6 @@
 ## Commands:
 
-/compass *[name]*
+/compass *[name]* 
 /compass reload
 
 ## Permissions:
